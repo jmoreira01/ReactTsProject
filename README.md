@@ -13,8 +13,7 @@ Install dependencies
 > npm install
 
 Start the development server
->npm start
-Open http://localhost:3000 to view the app in the browser
+> npm start > Open http://localhost:3000 to view the app in the browser
 
 
 Built with:
