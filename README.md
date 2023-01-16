@@ -17,6 +17,6 @@ Start the development server
 Open http://localhost:3000 to view the app in the browser
 
 
-Built with
-<a href="https://reactjs.org/">React</a>
-<a href="https://www.typescriptlang.org/">TypeScript</a>
+Built with:
+- <a href="https://reactjs.org/">React</a>
+- <a href="https://www.typescriptlang.org/">TypeScript</a>
