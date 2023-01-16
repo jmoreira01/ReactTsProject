@@ -2,8 +2,8 @@
 This project is a simple guest list application built using React and TypeScript.
 
 ## Features
-Add guests to the list
-View the list of guests
+- Add guests to the list
+- View the list of guests
 
 ## Getting started
 Clone the repository
